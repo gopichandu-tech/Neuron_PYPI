@@ -8,7 +8,7 @@ USER_NAME = "gopichandu-tech"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.3",
+    version="0.0.4",
     author="Example Author",
     author_email="author@example.com",
     description="A small example package",
