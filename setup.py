@@ -3,12 +3,12 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-PROJECT_NAME = "NEURON"
+PROJECT_NAME = "NEURON_PYPI"
 USER_NAME = "gopichandu-tech"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.2",
+    version="0.0.3",
     author="Example Author",
     author_email="author@example.com",
     description="A small example package",
